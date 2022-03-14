@@ -20,15 +20,15 @@ Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, 
 ## Ort 
 <table style="width:100%">
   <tr>
-    <td>Karl Franzens Universität Graz </p> 
-Universitätsplatz 3</p> 
-8010 Graz </p> </td>
+    <td>Karl Franzens Universität Graz <br> 
+Universitätsplatz 3<br> 
+8010 Graz <br> </td>
     <td><img style="float: right;width:200px" src="/images/Logo_Universitaet-Graz_4c.jpg"></td>
   </tr>
 </table>
 
 [![Humboldtstr. 48, 8010 Graz](images/OSM-UG.png)](https://www.openstreetmap.org/?mlat=47.08050&mlon=15.44716#map=17/47.08050/15.44716)  
-
+<p><a href="https://www.uni-graz.at/">Karl Franzens Universität Graz</a>   <br />
 
 
 ## Veranstalter
