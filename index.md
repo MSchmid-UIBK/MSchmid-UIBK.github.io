@@ -1,4 +1,4 @@
-# OER-Infrastruktur-Barcamp
+# OER-Infrastruktur-Barcamp #OER_Barcamp
 
 ## Veranstaltungsinfo
 Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?   
