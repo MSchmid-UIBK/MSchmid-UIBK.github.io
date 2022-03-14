@@ -26,6 +26,11 @@ Universitätsplatz 3
 
 
 ![UniFraz](/images/Logo_Universitaet-Graz_4c.jpg)
+
+<img style="float: right;" src="/images/Logo_Universitaet-Graz_4c.jpg">
+Continue markdown text...
+
+
 ## Veranstalter
 
 Arbeitspaket 2 "Lokale Repositorien aufbauen und weiterenwickeln" des Projekts [Open Education Austria](https://www.openeducation.at/)
