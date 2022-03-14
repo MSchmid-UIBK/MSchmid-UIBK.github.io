@@ -27,8 +27,7 @@ Universitätsplatz 3
 
 ![UniFraz](/images/Logo_Universitaet-Graz_4c.jpg)
 
-<img style="float: right;" src="/images/Logo_Universitaet-Graz_4c.jpg">
-Continue markdown text...
+|<img style="float: right;" src="/images/Logo_Universitaet-Graz_4c.jpg">| Continue markdown text...|
 
 
 ## Veranstalter
