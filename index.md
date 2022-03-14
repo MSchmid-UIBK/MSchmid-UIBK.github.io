@@ -33,6 +33,14 @@ Universitätsplatz 3<br>
 
 
 ## Veranstalter
+<table style="width:100%">
+  <tr>
+    <td><img style="float: right;width:200px" src="/images/Logo.cd211db.svg"></td>
+    <td>Projekt Open Education Austria <br> 
+AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"  <br> 
+    <td><img style="float: right;width:200px" src="/images/Logo_Universitaet-Graz_4c.jpg"></td>
+  </tr>
+</table>
 Projekt [Open Education Austria](https://www.openeducation.at/)   
 AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"    
 
