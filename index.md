@@ -23,7 +23,7 @@ Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, 
     <td>[Karl Franzens Universität Graz](https://www.uni-graz.at/)     
 Universitätsplatz 3     
 8010 Graz</td>
-    <td><img style="float: right" style="width:50px" src="/images/Logo_Universitaet-Graz_4c.jpg"></td>
+    <td><img style="float: right"; "width:50px" src="/images/Logo_Universitaet-Graz_4c.jpg"></td>
   </tr>
 </table>
 
