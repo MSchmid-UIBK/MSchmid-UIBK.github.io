@@ -28,7 +28,7 @@ Universitätsplatz 3<br>
 </table>
 
 [![Humboldtstr. 48, 8010 Graz](images/OSM-UG.png)](https://www.openstreetmap.org/?mlat=47.08050&mlon=15.44716#map=17/47.08050/15.44716)  
-<p><a href="https://www.uni-graz.at/">Karl Franzens Universität Graz</a>   <br />
+[Universität Graz](https://www.uni-graz.at/)
 
 
 ## Veranstalter
