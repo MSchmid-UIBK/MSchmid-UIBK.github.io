@@ -37,7 +37,7 @@ Universitätsplatz 3<br>
   <tr>
     <td><img style="float: right;width:200px" src="/images/Logo.cd211db.svg"></td>
     <td>Projekt Open Education Austria <br> 
-AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"  <br> 
+AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"  <br> </td>
   </tr>
 </table>
 
