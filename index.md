@@ -32,9 +32,13 @@ Universitätsplatz 3<br>
 
 
 ## Veranstalter
+[Open Education Austria](https://www.openeducation.at/)
+AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"    
 
-Arbeitspaket 2 "Lokale Repositorien aufbauen und weiterenwickeln" des Projekts [Open Education Austria](https://www.openeducation.at/)
+Open Education Austria Advanced ist ein Projekt österreichischer Universitäten zur gemeinsamen Entwicklung einer nationalen Infrastruktur für Open Educational Resources (OER) (Projektlaufzeit 01.03.2020-28.02.2024)
 
+Erstmals wird versucht, Dienstleistungen von E-Learning-Zentren, Zentralen Informatikdiensten und Bibliotheken der Partneruniversitäten zu verknüpfen, um Lehrende bei der Erstellung von OER-Materialien für Selbststudium und Lehre zu unterstützen und eine schrittweise Qualitätssteigerung im Lehren und Lernen sowie die Sichtbarkeit von Good-Practice Materialien innerhalb der jeweiligen Disziplin zu erreichen.
+  
 ## Kontakt und Anmeldung
 [oer@uni-graz.at](mailto:oer@uni-graz.at)
 
