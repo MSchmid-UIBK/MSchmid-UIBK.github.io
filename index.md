@@ -1,8 +1,10 @@
 # OER-Infrastruktur-Barcamp
 
 ## Veranstaltungsinfo
-Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen? 
-Welche Erwartungen an OER-Repositories (und OER-Suchportale) sind vernünftig, welche Hoffnungen sind berechtigt? 
+Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?   
+
+Welche Erwartungen an OER-Repositories (und OER-Suchportale) sind vernünftig, welche Hoffnungen sind berechtigt?    
+
 Sind die derzeitigen Bestrebungen auf dem richtigen Weg? Und wenn ja: ist es noch weit? 
 
 ## Ziel der Veranstaltung
