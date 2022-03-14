@@ -39,11 +39,11 @@ Open Education Austria Advanced ist ein Projekt österreichischer Universitäten
 Erstmals wird versucht, Dienstleistungen von E-Learning-Zentren, Zentralen Informatikdiensten und Bibliotheken der Partneruniversitäten zu verknüpfen, um Lehrende bei der Erstellung von OER-Materialien für Selbststudium und Lehre zu unterstützen und eine schrittweise Qualitätssteigerung im Lehren und Lernen sowie die Sichtbarkeit von Good-Practice Materialien innerhalb der jeweiligen Disziplin zu erreichen.
   
 Projektteam:   
-*Andreas Parschalk, BSc: Technische Leitung der Repositoriums-entwicklung an der UIBK, Techniker*innen-Team
-*Mag. Julia Schindler: Organisatorische Leitung (Planung und Controlling) der Repositoriumsentwicklung an der UIBK, Koordination Techniker*innen-Team
-*Ing. Markus Schmid, BSc, MSc: Technische Umsetzung des Repositoriums an der UIBK, Techniker*innen-Team
-*Mag. Dr. Michael Raunig: Leitung der Repositoriumsentwicklung an der UG
-*Stephan Lorbek, BSc: Technische Umsetzung des Repositoriums an der UG
+* Andreas Parschalk, BSc: Technische Leitung der Repositoriums-entwicklung an der UIBK, Techniker*innen-Team
+* Mag. Julia Schindler: Organisatorische Leitung (Planung und Controlling) der Repositoriumsentwicklung an der UIBK, Koordination Techniker*innen-Team
+* Ing. Markus Schmid, BSc, MSc: Technische Umsetzung des Repositoriums an der UIBK, Techniker*innen-Team
+* Mag. Dr. Michael Raunig: Leitung der Repositoriumsentwicklung an der UG
+* Stephan Lorbek, BSc: Technische Umsetzung des Repositoriums an der UG
   
 ## Kontakt und Anmeldung
 [oer@uni-graz.at](mailto:oer@uni-graz.at)
