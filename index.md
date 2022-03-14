@@ -15,8 +15,8 @@ Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, 
 * * *
 
 ## Datum
-22.April.2022 
-<iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs0/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tatDas%20Barcamp%20startet%20in/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-04-22T00:00:00/bo2" allowtransparency="true" frameborder="0" width="288" height="69"></iframe>
+22.April.2022 <iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tatDas%20Barcamp%20startet%20in/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-04-22T09:00:00" allowtransparency="true" frameborder="0" width="286" height="67"></iframe>
+
 
 ## Ort 
 [![Humboldtstr. 48, 8010 Graz](images/OSM-UG.png)](https://www.openstreetmap.org/?mlat=47.08050&mlon=15.44716#map=17/47.08050/15.44716)  
