@@ -1,58 +1,123 @@
-# OER-Infrastruktur-Barcamp 
-      
-## Veranstaltungsinfo
-Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an unseren Hochschulen aussehen?   
+---
+layout: default
+---
 
-Welche Erwartungen an OER-Repositories (und OER-Suchportale) sind vernünftig, welche Hoffnungen sind berechtigt?    
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-Sind die derzeitigen Bestrebungen auf dem richtigen Weg? Und wenn ja: ist es noch weit? 
+[Link to another page](./another-page.html).
 
-## Ziel der Veranstaltung
-Im Rahmen dieses Barcamps zum Dachthema "OER-Infrastruktur" möchten wir gegenseitig Einblick in aktuelle Infrastrukturprojekte ermöglichen und gemeinsam Fragen und Visionen diskutieren, die die technische und organisatorische Bereitstellung von OER betreffen. 
+There should be whitespace between paragraphs.
 
-## Zielgruppe
-Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, mit der Produktion und Distribution von OER befasste und daran interessierte Personen!
+There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
+# Header 1
+
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+## Header 2
+
+> This is a blockquote following a header.
+>
+> When something is important enough, you do it even if the odds are not in your favor.
+
+### Header 3
+
+```js
+// Javascript code with syntax highlighting.
+var fun = function lang(l) {
+  dateformat.i18n = require('./lang/' + l)
+  return true;
+}
+```
+
+```ruby
+# Ruby code with syntax highlighting
+GitHubPages::Dependencies.gems.each do |gem, version|
+  s.add_dependency(gem, "= #{version}")
+end
+```
+
+#### Header 4
+
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+*   This is an unordered list following a header.
+
+##### Header 5
+
+1.  This is an ordered list following a header.
+2.  This is an ordered list following a header.
+3.  This is an ordered list following a header.
+
+###### Header 6
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+### There's a horizontal rule below this.
 
 * * *
-## Wann
-<p align="center"> <iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tat22.April.2022/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-04-22T09:00:00/pl20/pr20" allowtransparency="true" frameborder="0" width="209" height="69"></iframe></p>
 
-## Wo
-<table style="width:100%">
-  <tr>
-    <td>Karl Franzens Universität Graz <br> 
-Universitätsplatz 3<br> 
-8010 Graz <br>
-Genaue Informationen folgen..</td>
-    <td><img style="float: right;width:200px" src="/images/Logo_Universitaet-Graz_4c.jpg"></td>
-  </tr>
-</table>
+### Here is an unordered list:
 
-[![Humboldtstr. 48, 8010 Graz](images/OSM-UG.png)](https://www.openstreetmap.org/?mlat=47.08050&mlon=15.44716#map=17/47.08050/15.44716)  
-[Universität Graz](https://www.uni-graz.at/) 
+*   Item foo
+*   Item bar
+*   Item baz
+*   Item zip
+
+### And an ordered list:
+
+1.  Item one
+1.  Item two
+1.  Item three
+1.  Item four
+
+### And a nested list:
+
+- level 1 item
+  - level 2 item
+  - level 2 item
+    - level 3 item
+    - level 3 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+  - level 2 item
+  - level 2 item
+- level 1 item
+
+### Small image
+
+![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
-## Veranstalter
-<table style="width:100%">
-  <tr>
-    <td><img style="float: right;width:200px" src="/images/Logo.cd211db.svg"></td>
-    <td>Projekt Open Education Austria <br> 
-AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"  <br> </td>
-  </tr>
-</table>
+### Definition lists can be used with HTML syntax.
 
-[Open Education Austria](https://www.openeducation.at/)  ist ein Projekt österreichischer Universitäten zur gemeinsamen Entwicklung einer nationalen Infrastruktur für Open Educational Resources (OER).  
+<dl>
+<dt>Name</dt>
+<dd>Godzilla</dd>
+<dt>Born</dt>
+<dd>1952</dd>
+<dt>Birthplace</dt>
+<dd>Japan</dd>
+<dt>Color</dt>
+<dd>Green</dd>
+</dl>
 
-  
-Projektteam:   
-* Andreas Parschalk, BSc: Universität Innsbruck
-* Mag. Julia Schindler: Universität Innsbruck
-* Ing. Markus Schmid, BSc, MSc: Universität Innsbruck
-* Mag. Dr. Michael Raunig: Universität Graz
-* Stephan Lorbek, BSc: Universität Graz
-  
-## Kontakt und Anmeldung
-[oer@uni-graz.at](mailto:oer@uni-graz.at)
+```
+Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
+```
 
-
+```
+The final element.
+```
