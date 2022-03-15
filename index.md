@@ -22,7 +22,7 @@ Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, 
 * Es kommen die Teilnehmerinnen und Teilnehmer zu Wort -Jede Teilnehmerin, jeder Teilnehmer ist aktiv beteiligt.
 * Wer etwas beitragen möchte, meldet die Session zu Beginn der Veranstaltung an, der Ablauf (Sessionfolge) wird am Beginn der Veranstaltung festgelegt.
 * Sie gehen spontan in eine Session Ihrer Wahl. Jede Session dauert so lange wie sie dauert oder bis eine neue Session beginnt.   
-Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input
+
 
 * * *
 ## Wann
@@ -54,4 +54,5 @@ Projektteam:
 * Stephan Lorbek, BSc: Universität Graz
   
 ## Kontakt und Anmeldung
+Wir freuen uns über Anmeldungen – gern auch schon mit Themenvorschlägen für einen Input   
 [oer@uni-graz.at](mailto:oer@uni-graz.at)
