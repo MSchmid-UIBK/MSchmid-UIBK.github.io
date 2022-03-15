@@ -15,7 +15,7 @@ Im Rahmen dieses Barcamps zum Dachthema "OER-Infrastruktur" möchten wir gegense
 Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, mit der Produktion und Distribution von OER befasste und daran interessierte Personen!
 
 ## Die Regeln
-* Talk about! Erzählen Sie auf allen Kanälen (persönlich | Twitter | Facebook | Instagram | Blog | usw.) vom OER-Infrastruktur-Barcamp vor, während und nach der Veranstaltung!
+* Talk about! Erzählen Sie auf allen Kanälen (persönlich, Twitter, Facebook, Instagram, Blog, usw.) vom OER-Infrastruktur-Barcamp vor, während und nach der Veranstaltung!
 * Es kommen die Teilnehmerinnen und Teilnehmer zu Wort
 * Jede Teilnehmerin, jeder Teilnehmer ist aktiv beteiligt.
 * Die oberste Regel des BarCamps lautet "Rede übers BarCamp" - nutzen SIie #OER_Barcamp
