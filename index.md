@@ -19,24 +19,19 @@ Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, 
 <p align="center"> <iframe src="https://free.timeanddate.com/countdown/i88n9d4o/n318/cf12/cm0/cu4/ct0/cs1/ca0/co1/cr0/ss0/cac000/cpc000/pct/tcfff/fs100/szw448/szh189/tat22.April.2022/tac000/tptTime%20since%20Event%20started%20in/tpc000/iso2022-04-22T09:00:00/pl20/pr20" allowtransparency="true" frameborder="0" width="209" height="69"></iframe></p>
 
 ## Wo
-<table style="width:100%">
-  <tr>
-    <td>Karl Franzens Universität Graz <br> 
-Universitätsplatz 3<br> 
-8010 Graz <br>
-Genaue Informationen folgen..</td>
-    <td><img style="float: right;width:200px" src="/images/Logo_Universitaet-Graz_4c.jpg"></td>
-  </tr>
-</table>
+Karl Franzens Universität Graz     
+Universitätsplatz 3      
+8010 Graz     
+Genaue Informationen folgen..      
 
 [![Humboldtstr. 48, 8010 Graz](images/OSM-UG.png)](https://www.openstreetmap.org/?mlat=47.08050&mlon=15.44716#map=17/47.08050/15.44716)  
 [Universität Graz](https://www.uni-graz.at/) 
 
 
 ## Veranstalter
-<img style="float: right;width:200px" src="/images/Logo.cd211db.svg"><br>
-Projekt Open Education Austria <br> 
-AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"  <br> 
+<img style="float: right;width:200px" src="/images/Logo.cd211db.svg">     
+Projekt Open Education Austria     
+AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"     
 
 [Open Education Austria](https://www.openeducation.at/)  ist ein Projekt österreichischer Universitäten zur gemeinsamen Entwicklung einer nationalen Infrastruktur für Open Educational Resources (OER).  
 
