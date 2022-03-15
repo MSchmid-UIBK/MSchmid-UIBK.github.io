@@ -43,7 +43,7 @@ AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"  <br> </td>
 </table>
 
 [Open Education Austria](https://www.openeducation.at/)  ist ein Projekt österreichischer Universitäten zur gemeinsamen Entwicklung einer nationalen Infrastruktur für Open Educational Resources (OER).  
-Erstmals wird versucht, Dienstleistungen von E-Learning-Zentren, Zentralen Informatikdiensten und Bibliotheken der Partneruniversitäten zu verknüpfen, um Lehrende bei der Erstellung von OER-Materialien für Selbststudium und Lehre zu unterstützen und eine schrittweise Qualitätssteigerung im Lehren und Lernen sowie die Sichtbarkeit von Good-Practice Materialien innerhalb der jeweiligen Disziplin zu erreichen.
+
   
 Projektteam:   
 * Andreas Parschalk, BSc: Universität Innsbruck
