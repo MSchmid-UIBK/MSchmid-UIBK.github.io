@@ -5,7 +5,8 @@ Wie könnte und sollte Infrastruktur für Open Educational Resources (OER) an un
 
 Welche Erwartungen an OER-Repositories (und OER-Suchportale) sind vernünftig, welche Hoffnungen sind berechtigt?    
 
-Sind die derzeitigen Bestrebungen auf dem richtigen Weg? Und wenn ja: ist es noch weit? 
+Sind die derzeitigen Bestrebungen auf dem richtigen Weg?     
+Und wenn ja: ist es noch weit? 
 
 ## Ziel der Veranstaltung
 Im Rahmen dieses Barcamps zum Dachthema "OER-Infrastruktur" möchten wir gegenseitig Einblick in aktuelle Infrastrukturprojekte ermöglichen und gemeinsam Fragen und Visionen diskutieren, die die technische und organisatorische Bereitstellung von OER betreffen. 
@@ -13,6 +14,14 @@ Im Rahmen dieses Barcamps zum Dachthema "OER-Infrastruktur" möchten wir gegense
 ## Zielgruppe
 Das Barcamp richtet sich an alle Admins und Manager_innen von OER-Repositorien, mit der Produktion und Distribution von OER befasste und daran interessierte Personen!
 
+## Die Regeln
+* Talk about! Erzählen Sie auf allen Kanälen (persönlich | Twitter | Facebook | Instagram | Blog | usw.) vom OER-Infrastruktur-Barcamp vor, während und nach der Veranstaltung!
+* Es kommen die Teilnehmerinnen und Teilnehmer zu Wort
+* Jede Teilnehmerin, jeder Teilnehmer ist aktiv beteiligt.
+* Die oberste Regel des BarCamps lautet "Rede übers BarCamp" - nutzen SIie #OER_Barcamp
+* Jede teilnehmende Person kann auch vorab eine Session melden.
+* Die genue Sessionfolge wird am Beginn der Veranstaltung festgelegt.
+* Sie gehen spontan in eine Session Ihrer Wahl. Jede Session dauert 30 Minuten (kurzer Impuls mit anschließender Diskussion).
 
 * * *
 ## Wann
