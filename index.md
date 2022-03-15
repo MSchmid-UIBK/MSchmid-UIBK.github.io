@@ -34,13 +34,9 @@ Genaue Informationen folgen..</td>
 
 
 ## Veranstalter
-<table style="width:100%">
-  <tr>
-    <td><img style="float: right;width:200px" src="/images/Logo.cd211db.svg"></td>
-    <td>Projekt Open Education Austria <br> 
-AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"  <br> </td>
-  </tr>
-</table>
+<img style="float: right;width:200px" src="/images/Logo.cd211db.svg"><br>
+Projekt Open Education Austria <br> 
+AP 2 "Lokale Repositorien aufbauen und weiterenwickeln"  <br> 
 
 [Open Education Austria](https://www.openeducation.at/)  ist ein Projekt österreichischer Universitäten zur gemeinsamen Entwicklung einer nationalen Infrastruktur für Open Educational Resources (OER).  
 
